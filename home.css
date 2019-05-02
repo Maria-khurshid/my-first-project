@@ -35,14 +35,7 @@ ul li a:hover{
     color: #000;
 }
 
-ul li.active a{
-    background-color: rgb(76, 196, 76);
-    color: #000;
-    padding-top: 50px;
-    padding-bottom: 10px;
-    padding-left: 20px;
-    padding-right: 20px;
-}
+
 
 .title{
     position: absolute;
@@ -59,8 +52,8 @@ ul li.active a{
     margin-bottom: 50px;
 }
 
-img{
-    text-align: center; 
+.title img{
+    align-content: center; 
 }
 .button{
     font-size: 20px;
